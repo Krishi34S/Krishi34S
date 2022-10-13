@@ -1,8 +1,10 @@
-<h1>
+<h3>
+	
 -  Hi, I’m Krishi
-- 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+- 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>
+	
 - 📫 Contact Me : sarmakrishi@gmail.com 
-</h1>
+</h3>
 
 <div id="badges" align="center">
   <a href="https://www.instagram.com/_notk_/">
@@ -21,7 +23,7 @@
    <a href="https://github.com/Krishi34S/C-Basics">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50px" height="50px"/>
   </a>
-		<a href="https://github.com/Krishi34S/Learning-Javascript">  
+   <a href="https://github.com/Krishi34S/Learning-Javascript">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px"/>
 </a>
 <a href="">
@@ -34,16 +36,15 @@
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 <div id="header" align="center">
 	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krishi34S&theme=dracula&background=000000&border=00D5DD)](https://git.io/streak-stats)
 
 
-[![Krishi34S's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishi34S&layout=compact&theme=radical))](https://github.com/Rashob/github-readme-stats)
+![Krishi34S's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishi34S&layout=compact&theme=radical))
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishi34S&layout=compact&theme=vision-friendly-dark&title=blue)](https://github.com/Rashob/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishi34S&layout=compact&theme=vision-friendly-dark&title=blue)
 
 ![](https://komarev.com/ghpvc/?username=Krishi34S&color=orange)
 

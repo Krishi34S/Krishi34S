@@ -1,9 +1,6 @@
-<h1 align="center">
-
+<h1>
 -  Hi, I’m Krishi
-
 - 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-
 - 📫 Contact Me : sarmakrishi@gmail.com 
 </h1>
 

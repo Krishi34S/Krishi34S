@@ -1,12 +1,11 @@
-<h3>
-	
 -  Hi, I’m Krishi
 - 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>
 	
 - 📫 Contact Me : sarmakrishi@gmail.com 
-</h3>
-
+### Connect with me:
+ 
 <div id="badges" align="center">
+  <a href+"
   <a href="https://www.instagram.com/_notk_/">
     <img src="https://img.icons8.com/clr-gls/344/instagram.png" height="60px" width="60px"/>
   </a>

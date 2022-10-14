@@ -1,11 +1,14 @@
--  Hi, I’m Krishi
-- 🌱 I’m currently learning <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Java" alt="C" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>
+- :star: Hi, I’m Krishi
+- :eyes: I'm interested in Web-Development and Web-designing.
+- 🌱 I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" title="C" alt="C" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>
 	
-- 📫 Contact Me : sarmakrishi@gmail.com 
+- 📫 You can reach me here : sarmakrishi@gmail.com 
 ### Connect with me:
  
-<div id="badges" align="center">
-  <a href+"
+<div id="badges" align="left">
+  <a href+"https://krishi34.hashnode.dev/">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="50px" width="50px">
+  </a>
   <a href="https://www.instagram.com/_notk_/">
     <img src="https://img.icons8.com/clr-gls/344/instagram.png" height="60px" width="60px"/>
   </a>

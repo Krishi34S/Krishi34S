@@ -19,22 +19,16 @@
 
 ---
 
-<div align="center">
+### Languages and Tools:
 
-### :hammer_and_wrench: Languages and Tools :
-   <a href="https://github.com/Krishi34S/C-Basics">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50px" height="50px"/>
-  </a>
-   <a href="https://github.com/Krishi34S/Learning-Javascript">  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50px" height="50px"/>
-</a>
-<a href="">
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" width="50px" height="50px">
-</a>
-<a href="https://github.com/Krishi34S/Learning-CSS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" height=50px width=50px>
-</a>
-</div>
+
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<br />
 
 ---
 

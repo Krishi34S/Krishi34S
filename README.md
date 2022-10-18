@@ -1,8 +1,6 @@
-- :star: Hi, I’m Krishi
-- :eyes: I'm interested in Web-Development and Web-designing.
-- 🌱 I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" title="C" alt="C" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>
-	
-- 📫 You can reach me here : sarmakrishi@gmail.com 
+## Hi, I’m Krishi
+- Exploring the World of Information Technology. 
+- Currently trying Web-Development and Game Development
 ### Connect with me:
  
 <div id="badges" align="left">

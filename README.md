@@ -28,6 +28,11 @@
 	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krishi34S&theme=dracula&background=000000&border=00D5DD)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishi34S&layout=compact&theme=vision-friendly-dark&title=blue)](https://github.com/Krishi34S/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Krishi34S&color=orange)
+
+
 </div>
 
 <!---

@@ -1,21 +1,15 @@
 ## Hi, I’m Krishi
 - Exploring the World of Information Technology. 
-- Currently trying Web-Development and Game Development
+- Currently learning: C, Javascript, Lua, CSS.
+
 ### Connect with me:
  
-<div id="badges" align="left">
-  <a href+"https://krishi34.hashnode.dev/">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="50px" width="50px">
-  </a>
-  <a href="https://www.instagram.com/_notk_/">
-    <img src="https://img.icons8.com/clr-gls/344/instagram.png" height="60px" width="60px"/>
-  </a>
-  <a href="https://twitter.com/sarmakrishi">
-    <img src="https://img.icons8.com/color/344/twitter--v2.png" height="60px" width="60px"/>
-  </a>
-</div>
-
----
+<p align="center">
+  &nbsp;
+  <a href="sarmakrishi@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/sarmakrishi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://krishi34s.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-00008B?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+ </p>
 
 ### Languages and Tools:
 
@@ -25,22 +19,14 @@
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"></code>
+<code><img height="25" src="https://play-lh.googleusercontent.com/AoGxhHsKQ6IKbaV5cUJ9D_oDZm3E5LDZqbtM0_dV1wEjDnyMeV29B1-1ocNB91shZsng=w526-h296-rw"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <br />
-
----
 
 ### My Stats :
 <div id="header" align="center">
 	
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krishi34S&theme=dracula&background=000000&border=00D5DD)](https://git.io/streak-stats)
-
-
-![Krishi34S's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishi34S&layout=compact&theme=radical))
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishi34S&layout=compact&theme=vision-friendly-dark&title=blue)
-
-![](https://komarev.com/ghpvc/?username=Krishi34S&color=orange)
 
 </div>
 
